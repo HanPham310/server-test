@@ -11,9 +11,9 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Environment**  
-- Environment: Production / Staging / Development  
+- Environment: Production / Dev / PR  
 - App Version:  
-- Device/OS:  
+- Device/OS/Browser:  
 - Account Info (if applicable):
 
 **To Reproduce**  
